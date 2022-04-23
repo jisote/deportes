@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.jpg
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.jpg"
 group-title="deportes",la liga 720
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 #EXTINF:-1 group-title="deportes",la liga 1080 multiaudio
