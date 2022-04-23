@@ -7,5 +7,9 @@ acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
 #EXTINF:-1 group-title="deportes",la liga 1 1080
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:-1 group-title="peliculas",Una linreria en paris
-acestream://5e31094d8404f42885c5f52195a9ed86238476e9
+#EXTINF:-1 group-title="deportes",la liga 2 1080
+acestream://ed147166c7df93f7aecba44d4e2fc9383d028218
+#EXTINF:-1 group-title="deportes",la liga 3 1080
+acestream://e693d6b35ee9dc2c6a0d0593edec281268e79440
+#EXTINF:-1 group-title="deportes",vamos 1080
+acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
