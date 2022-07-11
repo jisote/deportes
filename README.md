@@ -1,2 +1,0 @@
-# deportes
-todo el futbol
